@@ -1,0 +1,16 @@
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\WomenFinderApp.exe
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\WomenFinderApp.deps.json
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\WomenFinderApp.runtimeconfig.json
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\WomenFinderApp.runtimeconfig.dev.json
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\WomenFinderApp.dll
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\WomenFinderApp.pdb
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\FileHelper.dll
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\bin\Debug\netcoreapp3.1\FileHelper.pdb
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.csprojAssemblyReference.cache
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.AssemblyInfoInputs.cache
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.AssemblyInfo.cs
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.csproj.CoreCompileInputs.cache
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.csproj.CopyComplete
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.dll
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.pdb
+C:\Users\Hristoslav-PC\source\repos\WomenFinderApp\WomenFinderApp\obj\Debug\netcoreapp3.1\WomenFinderApp.genruntimeconfig.cache

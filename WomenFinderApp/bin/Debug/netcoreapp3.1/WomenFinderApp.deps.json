@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WomenFinderApp/1.0.0": {
+        "dependencies": {
+          "FileHelper": "1.0.0"
+        },
+        "runtime": {
+          "WomenFinderApp.dll": {}
+        }
+      },
+      "FileHelper/1.0.0": {
+        "runtime": {
+          "FileHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WomenFinderApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
