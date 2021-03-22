@@ -22,6 +22,10 @@ namespace FileHelper
                     {
                         'A', 'E', 'I', 'O', 'U', 'Y' //the vowels(in English)
                     };
+                    if (fileContent == null)
+                    {
+                        fileContentToDisplay = "There is no content in this file!";
+                    }
                     while (fileContent != null)
                     {
                         womenNames.Add(fileContent);
@@ -45,7 +49,7 @@ namespace FileHelper
             }
             else
             {
-                fileContentToDisplay = "There is no content in this file!";
+                fileContentToDisplay = "The file does not exist, please write to it first(Option 1) to create it!";
                 Console.WriteLine(fileContentToDisplay);
             }
         }
